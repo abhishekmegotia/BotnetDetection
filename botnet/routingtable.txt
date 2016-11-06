@@ -1,0 +1,15 @@
+bittorrent,173.194.49.25
+limewire,123.23.139.88
+shareaza,147.142.15.12
+www.google.com,NULL
+www.apple.com,NULL
+torrentz,157.156.37.18
+www.wikipedia.org,NULL
+bearshare,211.114.23.14
+aresgalaxy,82.221.129.17
+piolet,138.111.14.2
+zeropaid,58.26.185.34
+blogsdna,65.55.175.254
+www.hotmail.com,NULL
+www.indiatoday.in,NULL
+overnet,201.178.124.56

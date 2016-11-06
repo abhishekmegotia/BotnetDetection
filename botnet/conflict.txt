@@ -1,0 +1,5 @@
+google.com,NULL
+apple.com,NULL
+wikipedia.org,NULL
+hotmail.com,NULL
+indiatoday.in,NULL
